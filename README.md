@@ -1,4 +1,4 @@
 # EGT-Summer-Olympics
-##library added
+## library added
 1)import numpy
-import pandas
+2)import pandas
